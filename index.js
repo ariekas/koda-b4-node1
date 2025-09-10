@@ -1,5 +1,5 @@
-const create = require("./lib/createMusic");
-const move = require("./lib/moveMusic");
+const create = require("./lib/createMusic")
+const move = require("./lib/moveMusic")
 
 
 const music = [
@@ -13,7 +13,8 @@ const music = [
   "Bulan Sutena - Ghosting",
   "Bulan Sutena - Tetap Punyaku",
   "Raavfy - Badut",
-];
+]
 
-create.createFile(music);
-move.moveMusic(music);
+
+create.createFile(music)
+move.moveMusic(music)
