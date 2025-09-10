@@ -7,8 +7,7 @@
     "dev": "node  index.js",
     "test": "node converdManual.js",
     "lintFix": "npx eslint *.js ./*.js ./**/*.js --fix",
-    "lint" : "npx eslint *.js ./*.js ./**/*.js"
-
+    "lint": "npx eslint *.js ./*.js ./**/*.js"
   },
   "keywords": [],
   "author": "",
